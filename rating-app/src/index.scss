@@ -74,6 +74,12 @@ $very-dark-blue: hsl(216, 12%, 8%);
                         background-color: $light-grey;
                         color: $white;
                     }
+                    
+                    &.active {
+                        background-color: $light-grey;
+                        color: $white;
+
+                    }
                 }
             }
         }
