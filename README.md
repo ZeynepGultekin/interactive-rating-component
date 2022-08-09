@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-react-h8oL3dCjYQ](https://www.frontendmentor.io/solutions/interactive-rating-component-react-h8oL3dCjYQ)
+- Live Site URL: [https://reactjs-interactive-rating-component.netlify.app/](https://reactjs-interactive-rating-component.netlify.app/)
 
 ## My process
 
@@ -49,7 +49,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@ZeynepGultekin](https://www.frontendmentor.io/profile/ZeynepGultekin)
 
 
