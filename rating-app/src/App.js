@@ -15,7 +15,7 @@ function App() {
   }
 
   return (
-    <div className='container'>
+    <main className='container'>
     
       <div className='card__rate card' style={{display: isShown ? 'initial' : 'none'}}>
       <div className='card__rate__img'><img src={star} alt="star for rating"/></div>
@@ -34,7 +34,7 @@ function App() {
       
       <Thanks isShown={isShown} rating={rating} />
        
-    </div>
+    </main>
   );
 }
 
