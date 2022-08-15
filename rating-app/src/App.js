@@ -18,8 +18,7 @@ function App() {
     <div className='container'>
     
       <div className='card__rate card' style={{display: isShown ? 'initial' : 'none'}}>
-      {/* <div className='card__rate card'> */}
-        <img src={star} alt="star for rating" className='card__rate__img'/>
+      <div className='card__rate__img'><img src={star} alt="star for rating"/></div>
         <h1 className="card__title">How did we do?</h1>
         <p className="card__text">Please let us know how we did with your support request. All feedback is appreciated 
     to help us improve our offering!</p>
